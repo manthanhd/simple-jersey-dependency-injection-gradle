@@ -1,3 +1,14 @@
+# IDE Specific START
+build
+.gradle
+.idea
+RESTfulExample.iml
+.classpath
+.project
+target
+.settings
+# IDE Specific END
+
 *.class
 
 # Mobile Tools for Java (J2ME)
